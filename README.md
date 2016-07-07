@@ -14,3 +14,16 @@ Caso seja aprovado pelos mantedores do site da ESA, esse script ira atuar no pro
 
 ### A segunda aplicação <a href='python.org'>Python</a>
 <i>A segunda é uma aplicação foi desenvolvida na linguagem <a href='python.org'>Python</a> e desempenha a mesma função do script em <a href='https://www.javascript.com/'>JavaScript</a>, no entanto, será utilizado a linguagem diferente.
+
+## Softwares e bibliotecas necessários
+#JavaScript
+<ul>
+<li>Habilitar o javascript no navegador</li>
+</ul>
+
+#Python
+<ul>
+<li>Python3.5</li>
+<li>pip3.5 install bs4</li>
+<li>pip3.5 install urllib</li>
+</ul>
